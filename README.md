@@ -1,2 +1,2 @@
 # coding-exercises
-Just fun little exercises I completed.
+Just fun coding exercises I completed.
